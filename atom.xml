@@ -3,14 +3,14 @@
   <title>Kit</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://kitws.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://kitws.top/"/>
   <updated>2023-12-24T14:39:37.240Z</updated>
-  <id>http://example.com/</id>
+  <id>http://kitws.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Kit</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/12/24/hello-world/"/>
-    <id>http://example.com/2023/12/24/hello-world/</id>
+    <link href="http://kitws.top/2023/12/24/hello-world/"/>
+    <id>http://kitws.top/2023/12/24/hello-world/</id>
     <published>2023-12-24T14:39:37.000Z</published>
     <updated>2023-12-24T14:39:37.240Z</updated>
     
